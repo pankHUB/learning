@@ -100,12 +100,6 @@ export default function Home() {
             title: "Learning Hub",
             description: "Track topics, open deep dives, measure progress.",
           },
-          {
-            href: "/fun",
-            emoji: "🎮",
-            title: "Fun Zone",
-            description: "Brain games and challenges to keep your mind sharp.",
-          },
         ].map((f) => (
           <a
             key={f.href}

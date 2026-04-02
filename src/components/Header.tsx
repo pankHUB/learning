@@ -23,12 +23,6 @@ export default function Header() {
           <Link href="/interview-prep" className="hover:text-gray-900 transition-colors">
             Interview Prep
           </Link>
-          <Link
-            href="/fun"
-            className="rounded-md bg-gray-900 px-4 py-2 text-white hover:bg-gray-700 transition-colors"
-          >
-            Fun
-          </Link>
         </nav>
       </div>
     </header>
