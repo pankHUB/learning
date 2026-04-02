@@ -1,4 +1,5 @@
-.github/workflows/deploy.ymlname: CI/CD Pipeline
+ß
+name: CI/CD Pipeline
 
 on:
   push:
