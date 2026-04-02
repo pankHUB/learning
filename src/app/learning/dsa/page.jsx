@@ -8,7 +8,7 @@ const PLAN = [
     weeks: [
       {
         week: "Week 1",
-        topic: "Advanced Array / String Techniques",
+        topic: "Advanced Array /String Techniques",
         questions: [
           { id: "a1", title: "Minimum Window Substring", difficulty: "Hard", note: "Multi-pointer sliding window with frequency map" },
           { id: "a2", title: "Longest Substring with At Most K Distinct Characters", difficulty: "Medium", note: "Variable window optimization" },
