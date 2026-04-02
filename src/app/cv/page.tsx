@@ -8,7 +8,7 @@ export default function CVPage() {
         </h1>
         <p className="mt-4 text-lg text-gray-500 max-w-2xl">
           Craft a professional CV that stands out. Fill in your details and
-          generate a polished, ready-to-download resume in seconds.
+          generate polished, ready-to-download resume in seconds.
         </p>
       </section>
 
