@@ -145,6 +145,19 @@ export default function LearningPage() {
           </div>
           <span className="text-gray-400 group-hover:text-gray-700 transition-colors text-sm">→</span>
         </a>
+        <a
+          href="/learning/nextjs-deployment"
+          className="mt-3 flex items-center justify-between rounded-xl border border-gray-200 bg-gray-50 px-5 py-4 hover:border-gray-400 hover:bg-white transition-colors group"
+        >
+          <div className="flex items-center gap-4">
+            <span className="text-2xl">🚀</span>
+            <div>
+              <p className="text-sm font-semibold text-gray-900">Next.js Deployment on AWS EC2</p>
+              <p className="text-xs text-gray-500 mt-0.5">EC2 Setup · Server Config · PM2 · Nginx · GitHub Actions · CI/CD</p>
+            </div>
+          </div>
+          <span className="text-gray-400 group-hover:text-gray-700 transition-colors text-sm">→</span>
+        </a>
       </section>
     </div>
   );
